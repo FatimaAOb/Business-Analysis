@@ -1,7 +1,7 @@
 # Business-Analysis
 This repo showcases business analysis documentations.
 
-Grading Management System – BA Case Study
+##Grading Management System – BA Case Study
 │
 ├── BRD.docx
 ├── SRS.docx
