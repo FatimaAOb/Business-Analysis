@@ -8,5 +8,5 @@ SRS.docx <br>
 User_Stories_and_AC_Jira_Link <br>
 RTM.xlsx <br>
 Process_Diagrams_AS-IS_TO-BE.pdf <br>
-[Case_Study_Summary.pdf](https://fatimaobeidatjo.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMGVlOTVlYzkyOTc2NDRiMTllZjQ3Yzg2ZjJmZjdkZjEiLCJwIjoiaiJ9) <br>
+Case_Study_Summary.pdf
 
