@@ -5,7 +5,7 @@ This repo showcases business analysis documentations.
 <br>
 BRD.docx <br>
 SRS.docx <br>
-[User Stories and AC Jira Link](https://fatimaobeidatjo.atlassian.net/jira/software/projects/SCRUM/boards/1)
+[User Stories and AC Jira Link](https://www.google.com/)
 
 
 RTM.xlsx <br>
