@@ -5,11 +5,7 @@ This repo showcases business analysis documentations.
 <br>
 BRD.docx <br>
 SRS.docx <br>
-[User Stories and AC Jira Link](https://www.google.com/)
-
-# Test Link
-
-This is a test of a clickable link: [User Stories and AC Jira Link](https://www.google.com/)
+[User_Stories_and_AC_Jira_Link](https://www.google.com/)
 
 RTM.xlsx <br>
 Process_Diagrams_AS-IS_TO-BE.pdf <br>
