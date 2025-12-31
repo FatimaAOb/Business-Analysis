@@ -5,7 +5,7 @@ This repo showcases business analysis documentations.
 <br>
 BRD.docx <br>
 SRS.docx <br>
-User_Stories_and_AC.docx <br>
+[User_Stories_and_AC_Jira_Link]([https://fatimabd.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiZmUyMzRiZmE2ZTc4NGZlOGI3YzhjMmYzNmVmYjg0OGIiLCJwIjoiaiJ9]) <br>
 RTM.xlsx <br>
 Process_Diagrams_AS-IS_TO-BE.pdf <br>
 Case_Study_Summary.pdf <br>
