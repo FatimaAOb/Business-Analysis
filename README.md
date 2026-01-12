@@ -5,7 +5,7 @@ Business analysis documentation repository including BRD, user stories, acceptan
 
 ## Grading Management System – BA Case Study
 <br>
-**[BRD.pdf](https://chatgpt.com/)**<br>
+**[BRD.pdf](https://chatgpt.com/) **<br>
 SRS.pdf <br>
 UAT.pdf <br>
 User_Stories_and_AC.pdf <br>
