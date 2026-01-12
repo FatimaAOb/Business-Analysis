@@ -1,5 +1,7 @@
 # Business-Analysis
-Business analysis documentation repository including BRD, user stories, acceptance criteria, UAT scenarios, process diagrams (AS-IS / TO-BE), and supporting artifacts for system and workflow analysis.
+Business analysis documentation repository including BRD, user stories, acceptance criteria, UAT scenarios, process diagrams (AS-IS / TO-BE), and supporting artifacts for system and workflow analysis. <br>
+*This repository contains demonstration content created for portfolio purposes.
+
 
 ## Grading Management System – BA Case Study
 <br>
