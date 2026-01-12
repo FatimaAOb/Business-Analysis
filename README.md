@@ -4,14 +4,14 @@ Business analysis documentation repository including BRD, user stories, acceptan
 
 
 ## Grading Management System – BA Case Study
-<br>
-BRD.pdf<br>
-SRS.pdf <br>
-UAT.pdf <br>
-User_Stories_and_AC.pdf<br>
-RTM.xlsx <br>
-Process_Diagrams_AS-IS_TO-BE.pdf<br>
-dataflow_diagram.pdf<br>
+
+[BRD.pdf](BRD.pdf)<br>
+[SRS.pdf](SRS.pdf) <br>
+[UAT.pdf](UAT.pdf) <br>
+[User_Stories_and_AC.pdf](User_Stories_and_AC.pdf)<br>
+[RTM.xlsx](RTM.xlsx) <br>
+[Process_Diagrams_AS-IS_TO-BE.pdf](Process_Diagrams_AS-IS_TO-BE.pdf)<br>
+[dataflow_diagram.pdf](dataflow_diagram.pdf)<br>
 
 ## Gradutation Project – Requirements & Design documentation
 [Graduation_project.pdf](Graduation_project.pdf)
