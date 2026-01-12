@@ -12,7 +12,7 @@ User_Stories_and_AC.pdf <br>
 RTM.xlsx <br>
 Process_Diagrams_AS-IS_TO-BE.pdf <br>
 dataflow_diagram.pdf<br>
-[Graduation_project.pdf](https://github.com/FatimaAOb/Business-Analysis/blob/a3f284af7372bee18729433f7e01e0be86d7f836/Graduation_project.pdf)
+[Graduation_project.pdf](Graduation_project.pdf)
 
 ## Tools used
 Jira<br>
