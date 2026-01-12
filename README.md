@@ -5,7 +5,7 @@ Business analysis documentation repository including BRD, user stories, acceptan
 
 ## Grading Management System – BA Case Study
 <br>
-[BRD.pd](/BRD.pdf)f<br>
+[BRD.pdf](BRD.pdf) <br>
 SRS.pdf <br>
 User_Stories_and_AC.pdf <br>
 RTM.xlsx <br>
