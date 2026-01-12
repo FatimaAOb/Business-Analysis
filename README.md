@@ -11,9 +11,5 @@ User_Stories_and_AC.pdf <br>
 RTM.xlsx <br>
 Process_Diagrams_AS-IS_TO-BE.pdf <br>
 Case_Study_Summary.pdf
-# Test Links
-
-External: [Google](https://www.google.com)
-
-Internal: [This README](README.md)
+[This README](README.md)
 
